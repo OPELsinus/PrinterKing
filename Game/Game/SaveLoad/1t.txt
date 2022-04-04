@@ -1,0 +1,5 @@
+Offices
+Printers
+Stairs
+Doors
+Floor

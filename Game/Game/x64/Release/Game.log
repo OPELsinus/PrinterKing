@@ -1,0 +1,306 @@
+﻿  Main.cpp
+D:\C++ Projects\Game\Game\Main.cpp(17,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(105,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(115,46): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(115,35): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(177,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(177,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(1020,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(1067,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(1082,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(1116,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(1165,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(1212,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(1552,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(1712,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(1730,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(1770,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2218,84): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2218,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2219,196): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2219,163): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2220,91): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2220,59): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2226,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2226,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2250,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2260,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2271,76): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2271,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2280,80): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2280,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2289,66): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2289,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2300,87): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2300,54): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2302,87): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2302,55): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2304,87): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2304,54): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2306,87): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2306,55): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2308,80): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2308,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2318,79): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2318,50): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2320,79): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2320,51): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2322,79): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2322,50): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2324,79): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2324,51): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2327,72): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2327,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2359,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2359,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2434,62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2434,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2439,59): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2439,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2447,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2447,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2458,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2458,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2652,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2652,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2655,70): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2655,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2658,70): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2658,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2661,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2661,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2675,62): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2675,46): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2696,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2696,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2697,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2709,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2709,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2710,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2717,53): warning C4244: аргумент: преобразование "_Ty" в "T", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2717,42): warning C4244: аргумент: преобразование "_Ty" в "T", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2721,79): warning C4244: аргумент: преобразование "_Ty" в "T", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2721,55): warning C4244: аргумент: преобразование "_Ty" в "T", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2733,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2733,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2752,66): warning C4244: аргумент: преобразование "_Ty" в "T", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2752,42): warning C4244: аргумент: преобразование "_Ty" в "T", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2753,51): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2753,34): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2757,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2761,62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2761,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2769,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2769,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2776,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2776,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2782,94): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2782,44): warning C4244: аргумент: преобразование "unsigned __int64" в "float", возможна потеря данных
+D:\C++ Projects\Game\Game\Main.cpp(2787,97): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2787,57): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2788,113): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(2788,65): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\Game\Game\Main.cpp(1010,11): warning C4101: num2: неиспользованная локальная переменная
+D:\C++ Projects\Game\Game\Main.cpp(1106,11): warning C4101: num2: неиспользованная локальная переменная
+D:\C++ Projects\Game\Game\Main.cpp(1154,11): warning C4101: num2: неиспользованная локальная переменная
+D:\C++ Projects\Game\Game\Main.cpp(1202,11): warning C4101: num2: неиспользованная локальная переменная
+D:\C++ Projects\Game\Game\Main.cpp(1650,13): warning C4101: num2: неиспользованная локальная переменная
+D:\C++ Projects\Game\Game\Main.cpp(1728,13): warning C4101: num2: неиспользованная локальная переменная
+  Создание кода
+  0 of 792 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Game.vcxproj -> D:\C++ Projects\Game\x64\Release\Game.exe
